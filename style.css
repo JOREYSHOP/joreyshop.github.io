@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(6, 74, 83);
+  color: brown;
+  font-family: "calibri";
+}
+.button {
+  margin-top: 10%;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  border: 3px solid rgb(9, 167, 172);
+  padding: 12px 34px;
+  font-size: 108%;
+  background: transparent;
+  cursor: pointer;
+}
+.button:hover {
+  background: rgba(255, 255, 0, 0.733);
+  transition: 1s;
+}
