@@ -16,5 +16,5 @@ body {
 }
 .button:hover {
   background: rgba(255, 255, 0, 0.733);
-  transition: 1s;
+  transition: 0.8s;
 }
