@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(6, 74, 83);
-  color: brown;
+  background-color: rgb(112, 221, 9);
+  color: black;
   font-family: "calibri";
 }
 .button {
@@ -8,13 +8,14 @@ body {
   display: inline-block;
   text-decoration: none;
   color: black;
-  border: 3px solid rgb(9, 167, 172);
+  border: 5px solid rgb(9, 172, 23);
   padding: 12px 34px;
   font-size: 108%;
   background: transparent;
   cursor: pointer;
 }
 .button:hover {
-  background: rgba(255, 255, 0, 0.733);
-  transition: 0.8s;
+  background: rgb(3, 80, 3);
+  color: white;
+  transition: 1s;
 }
